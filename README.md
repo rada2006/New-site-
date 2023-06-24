@@ -6,6 +6,6 @@
 	
 </head>
 <body>
-<button class="custom-btn btn-1">Кнопка 1</button>
+<button class="custom-btn btn-1" href="https://google.com">Кнопка 1</button>
 </body>
 </html>
